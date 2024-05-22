@@ -31,8 +31,7 @@
 ## 코드
 
 ### Response Lambda
-<pre><code>
-import json
+<pre><code>import json
 import boto3
 import re
 import os
@@ -69,8 +68,7 @@ def lambda_handler(event, context):
 
 ### Langchain Lambda
 
-<pre><code>
-import json
+<pre><code>import json
 import boto3
 import urllib3
 import re
