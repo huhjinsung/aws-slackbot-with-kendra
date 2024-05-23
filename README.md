@@ -247,3 +247,7 @@ zip -r python.zip ./python
       attribute_filter=attributeFilter
       )
 </code></pre>
+
+## Reference
+- Slack AI Bot with AWS Bedrock : https://medium.com/@mahmood1/slack-ai-bot-with-aws-bedrock-f95e7997a666
+- Langchain Kendra Retreiver : https://api.python.langchain.com/en/latest/retrievers/langchain_community.retrievers.kendra.AmazonKendraRetriever.html
